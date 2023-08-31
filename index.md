@@ -3,7 +3,7 @@
 - I like the homework
 - I like my teachers
 
-''' hi '''
+ ```hi ```
 *wow*
 
 ## Welcome to GitHub Pages
